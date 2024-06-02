@@ -1,4 +1,4 @@
-# OctoSoftware
+# octo-software
 A powerful open-source platform dedicated to managing company resources with optimal performance and scalability.  
 What makes it special?  
 It encourages contributions from developers worldwide who are keen to enhance its capabilities.  
